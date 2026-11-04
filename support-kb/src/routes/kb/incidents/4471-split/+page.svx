@@ -4,7 +4,7 @@ title: '#4471 · two problems under one ticket'
 owner: Mikołaj Szal
 status: draft
 reviewed: 2026-11-04
-signature: Mikołaj Szal
+signature: v1.eyJzdWIiOiIzMjcyIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTM4MTk4MzAsImV4cCI6MTc5MzkwNjIzMH0.9SJVoV6uLie0L0O07wKWYPqKbb7LCyaigEpCfaeiFew
 ---
 
 <script>
@@ -41,4 +41,4 @@ Intake tags and subject-line dedupe ([0001](/kb/decisions/0001-dedupe-by-subject
 the tenant form. Form traffic on booking-v3 looks like the parser bug and lands in the same
 subject bucket, so it was merged into #4471 with no ticket of its own.
 
-<RenderStamp signature="Mikołaj Szal" />
+<RenderStamp signature="v1.eyJzdWIiOiIzMjcyIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTM4MTk4MzAsImV4cCI6MTc5MzkwNjIzMH0.9SJVoV6uLie0L0O07wKWYPqKbb7LCyaigEpCfaeiFew" />
